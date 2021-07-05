@@ -1,0 +1,44 @@
+.flexible{
+    display: flex;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
+}
+.welcome{
+    width: 50%;
+    padding: 1% 10%;
+    text-align: justify;
+
+}
+.salman img{
+    width: 600px;
+    padding:1%;
+    padding-bottom:100%;
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color: orange;
+}
+.link{
+    text-decoration: none;
+    background-color:tomato;
+    padding: 2% 4%;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+}
+.first-banner{
+background-image: url(image/top-banner.png);
+background-repeat: no-repeat;
+
+}
+.second-banner{
+    background-image: url(image/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+     padding-top: 30%;
+}
